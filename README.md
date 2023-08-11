@@ -2,18 +2,14 @@
 
 # Hello, All!  👋
 
-My name is Hossein and I'm a software developer/ engineer. You can find me on  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/amirinia) or on [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/amirinia)
+My name is Hossein and I'm a software developer/ ML engineer. You can find me on  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/amirinia) or on [![Github](https://img.shields.io/badge/github-amirinia-369?style=flat-square&logo=github&logoColor=white&color=blue)](https://github.com/amirinia)
 
 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/static/v1?label=<Tools>&&logo=Pandas&message=<Pandas>&color=2bbc8a)
-![](https://img.shields.io/static/v1?label=<Tools>&message=<numpy>&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=<Tools>&message=<Tensorflow>&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=<Tools>&message=<flask>&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=<Tools>&message=<AWS>&color=<COLOR>)
+
 
 
 
