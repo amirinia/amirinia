@@ -86,3 +86,14 @@ GITHUB            30 mins         █▒░░░░░░░░░░░░░�
 DEVOPS            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
+
+
+### Publications
+
+1. **Optimization of the IEEE 802.15.4 Superframe for Clustered WSNs using Differential Evolution**, IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), September 2021. 
+
+2. **Optimized Application Driven Scheduling for Clustered WSN**, International Symposium on Networks, Computers and Communications (ISNCC), October 2020. 
+
+3. **Optimizing LSTM Based Network For Forecasting Stock Market**, IEEE Congress on Evolutionary Computation (CEC), July 2020. 
+
+4. **Data Mining and Knowledge Extraction in the Risk Based Insurance Audit: A Case Study (City of Tehran)**, IJARCCE, August 2015. 
