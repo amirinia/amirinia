@@ -2,7 +2,7 @@
 
 # Hello, All!  👋
 
-My name is Hossein and I'm a software developer/ ML engineer. You can find me on  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/amirinia) or on [![Github](https://img.shields.io/badge/github-amirinia-369?style=flat-square&logo=github&logoColor=white&color=blue)](https://github.com/amirinia)
+My name is Hossein and I'm a senior software / ML engineer. You can find me on  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/amirinia) or on [![Github](https://img.shields.io/badge/github-amirinia-369?style=flat-square&logo=github&logoColor=white&color=blue)](https://github.com/amirinia)
 
 
 
@@ -11,12 +11,9 @@ My name is Hossein and I'm a software developer/ ML engineer. You can find me on
 
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -25,7 +22,6 @@ My name is Hossein and I'm a software developer/ ML engineer. You can find me on
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
@@ -57,10 +53,12 @@ My name is Hossein and I'm a software developer/ ML engineer. You can find me on
 <a href="https://github.com/amirinia/amirinia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br />
 <a href="https://github.com/amirinia/amirinia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirinia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amirinia's GitHub Stats" />
 </a>
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirinia&" alt="amirinia" /></a>
+<br />
+<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirinia&" alt="amirinia" /> </a>
    
 
 
@@ -81,10 +79,10 @@ My name is Hossein and I'm a software developer/ ML engineer. You can find me on
 
 <!--START_SECTION:waka-->
 ```text
-Python            6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
-ML                2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-NLP               31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-HTML              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-CSS               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Azure             6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.52 % 
+Python            2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+ML                31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+GITHUB            30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+DEVOPS            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 <!--END_SECTION:waka-->
